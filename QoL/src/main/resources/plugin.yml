@@ -1,0 +1,5 @@
+name: QoL
+version: ${project.version}
+main: com.hawkx6x.qol.QoL
+authors: [ Hawk_x6x ]
+description: The QoL feature hypixel wont implement
